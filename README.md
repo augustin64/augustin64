@@ -15,6 +15,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-141a20?logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141a20?logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?logo=visual-studio-code&logoColor=007ACC)&nbsp;
