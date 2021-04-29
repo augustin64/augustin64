@@ -17,6 +17,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141a20?logo=github)&nbsp;
-![nano](https://img.shields.io/badge/-Vim-141a20?logo=nano)&nbsp;
+![nano](https://img.shields.io/badge/-Nano-141a20?logo=nano)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Blender](https://img.shields.io/badge/-blender-141a20?logo=blender)&nbsp;
