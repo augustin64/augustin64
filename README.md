@@ -4,11 +4,11 @@
  + augustin.lucas65@gmail.com
  + augustin64#8544 
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=augustin64&theme=dark&show_icons=true)&nbsp; 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=dark&show_icons=true)]
 
-### Languages and tools :
+### &nbsp;Languages and tools :
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?logo=arch-linux)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?logo=python)&nbsp;
 ![shell](https://img.shields.io/badge/-Shell_Script-141a20?logo=shell)&nbsp;
