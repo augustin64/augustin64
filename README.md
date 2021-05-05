@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @augustin64
 - 🌱 I’m currently learning Python, Javascript and others
 - 📫 How to reach me: 
- + augustin.lucas64@gmail.com
- + augustin64#8544 
+ + mail:augustin.lucas64@gmail.com
+ + discord:augustin64#8544 
 
 ### &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=augustin64&theme=dark&show_icons=true)&nbsp; 
