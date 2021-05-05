@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @augustin64
 - 🌱 I’m currently learning Python, Javascript and others
 - 📫 How to reach me: 
- + augustin.lucas65@gmail.com
+ + augustin.lucas64@gmail.com
  + augustin64#8544 
 
 ### &nbsp;GitHub Analytics
