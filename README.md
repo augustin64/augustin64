@@ -17,12 +17,12 @@ I'm passionated of informatic, especially Linux and Python, you can find most of
 ```
 
 ### GitHub Analytics :
- 
-![github stats](https://github-readme-stats.vercel.app/api?username=augustin64&theme=react&show_icons=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=augustin64&theme=react)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustin64&theme=react&show_icons=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=react&show_icons=true&layout=compact)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustin64&theme=react" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=react&show_icons=true&layout=compact" />
 
 
 #### Languages and tools :  
