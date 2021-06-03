@@ -1,17 +1,34 @@
-- 👋 Hi, I’m @augustin64
-- 🌱 I’m currently learning Python, Javascript and others
-- 📫 How to reach me: 
- + mail:augustin.lucas64@gmail.com
- + discord:augustin64#8544 
+# Hi, I’m *@augustin64*
+I'm passionated of informatic, especially Linux and Python, you can find most of my projects here
 
-### &nbsp;GitHub Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=augustin64&theme=dark&show_icons=true)&nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=dark&show_icons=true)
+<a href="https://discordapp.com/user/522304532756037633">
+  <img align="left" alt="augustin64#8544" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>  
 
-### &nbsp;Languages and tools :
+# 
+
+### Things I'm working on :
+```
+> Python
+> JavaScript
+> HTML & CSS
+> Flask
+> Bash
+```
+
+### GitHub Analytics :
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=augustin64&theme=react&show_icons=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=augustin64&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=react&show_icons=true&layout=compact)
+
+
+#### Languages and tools :  
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?logo=arch-linux)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?logo=python)&nbsp;
-![shell](https://img.shields.io/badge/-Shell_Script-141a20?logo=shell)&nbsp;
+![shell](https://img.shields.io/badge/-Shell_Script-141a20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-141a20?logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?logo=CSS3&logoColor=1572B6)&nbsp;
