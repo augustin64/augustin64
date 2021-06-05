@@ -1,7 +1,7 @@
 # Hi, I’m *@augustin64*
 I'm passionated of informatic, especially Linux and Python, you can find most of my projects here
 
-<a href="https://discordapp.com/user/522304532756037633">
+<a href="https://discordapp.com/users/522304532756037633">
   <img align="left" alt="augustin64#8544" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>  
 
