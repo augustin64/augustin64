@@ -1,8 +1,8 @@
 # Hi, I’m *@augustin64*
 I'm passionated of informatic, especially Linux and Python, you can find most of my projects here
 
-<a href="https://discordapp.com/users/522304532756037633">
-  <img align="left" alt="augustin64#8544" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://augustin64.github.io/discord/profile">
+  <img align="left" alt="augustin64#8544" width="21px" src="https://augustin64.github.io/augustin64/discord-round.svg" />
 </a>  
 
 # 
