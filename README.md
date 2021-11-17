@@ -14,6 +14,7 @@ I'm passionated of informatic, especially Linux and Python, you can find most of
 > HTML & CSS
 > Flask
 > Bash
+> OCaml
 ```
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=react&show_icons=true&layout=compact&exclude_repo=augustin64.github.io" />
