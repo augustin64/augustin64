@@ -1,8 +1,8 @@
 # Hi, I’m *@augustin64*
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=react&show_icons=true&layout=compact&exclude_repo=augustin64.github.io" />
++ <a href="https://gitea.augustin64.fr/augustin64"><img height="32px" src="https://raw.githubusercontent.com/go-gitea/gitea/refs/heads/main/assets/logo.svg"/></a> You'll find most of my projects on my [self-hosted Gitea](https://gitea.augustin64.fr/augustin64).
+
++ <a href="https://www.augustin64.fr/discord/profile.html"><img alt="augustin64" width="28px" src="https://www.augustin64.fr/discord/icon.svg"/></a> You can get in touch on Discord.
 
 #
-<a href="https://www.augustin64.fr/discord/profile.html">
-  <img align="left" alt="augustin64#8544" width="21px" src="https://augustin64.github.io/augustin64/discord-round.svg" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustin64&theme=react&show_icons=true&layout=compact&exclude_repo=augustin64.github.io" />
